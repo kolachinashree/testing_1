@@ -1,5 +1,0 @@
-Hi all. This is the file1
-Fruits Name:
-Apple
-Grapes.
-nothing
